@@ -30,4 +30,4 @@ A breakdown of the technologies and tools I work with:
 
 ---
 
-**Proudly created with GPRM ( https://gprm.itsvg.in )**
+**Created with GPRM ( https://gprm.itsvg.in )**
