@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I’m John Fang Wu, a Computer Engineering graduate from the University of Florida with a passion for **Software Engineering**, **Game Development**, and **Machine Learning**. My goal is to combine technical expertise with my creative vision to craft meaningful and engaging projects. Always learning something new day by day.
+👋 Hey there! I’m John Fang Wu, a Computer Engineering graduate from the University of Florida with a passion for **Software Engineering**, **Game Development**, and **Machine Learning**. My goal is to combine technical expertise with my creative vision to craft meaningful and engaging projects. Always learning something new everyday.
 
 ---
 
